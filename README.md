@@ -1,1 +1,3 @@
 # Data-Analysis-Projects
+
+My key responsibilities include gathering data from various sources such as databases, APIs, and web scraping, and ensuring data accuracy through cleaning and validation. The role involves using statistical methods and tools like Python, SQL, and Excel to analyze datasets and identify trends to support business decisions. Reporting includes creating dashboards and visualizations using Tableau or Power BI to present insights to stakeholders, including non-technical teams. Collaboration with cross-functional teams and data engineers is crucial for understanding data needs, improving data pipelines, and ensuring accessibility.
